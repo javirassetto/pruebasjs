@@ -1,9 +1,10 @@
 {
-    "Personas": [
+    "Personas": 
         {
         "id": 1,
         "Nombre": "Javier",
         "Edad": 34
-        }
-    ]
+        },   
+    
 }
+
