@@ -4,11 +4,6 @@
         "id": 1,
         "Nombre": "Javier",
         "Edad": 34
-        },
-        {
-        "id": 2,
-        "Apellido": "rassetto",
-        "domicilio": 30
         }
     ]
 }
