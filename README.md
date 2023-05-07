@@ -1,2 +1,2 @@
-# pruebasjs
+# Pruebas Js
 Pruebas de JavaScript
