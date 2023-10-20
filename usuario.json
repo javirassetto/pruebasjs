@@ -1,0 +1,13 @@
+
+{
+"Usuario": 
+        {
+        "Nombre": "Juan",
+        "Apellido": "Perez",
+        "Email":"juan_Perez@gmail",
+        "Contrasena": 123456,
+        "ValidarContrasena:123456
+
+        }
+    
+}
